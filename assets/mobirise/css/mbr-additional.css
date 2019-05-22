@@ -1882,10 +1882,14 @@ body {
 .cid-rrdUZFa8yT {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rrdUZFa8yT P {
   color: #767676;
+}
+.cid-rrdUZFa8yT .mbr-text,
+.cid-rrdUZFa8yT .mbr-section-btn {
+  text-align: center;
 }
 .cid-rr2191VreI {
   padding-top: 90px;
